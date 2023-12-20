@@ -48,16 +48,23 @@ Open the project in your web browser.
 ## Usage
 
 -Add a new task by entering the task description and clicking the "Add Task" button.
+
 -Mark a task as completed by clicking the checkbox next to it.
+
 -Delete a task by clicking the "Delete" button.
+
 -Edit a task by clicking the "Edit" button and updating the task details.
 ## Contributing
 -If you'd like to contribute to this project, please follow these steps:
 
 -Fork the repository.
+
 -Create a new branch for your feature or bug fix.
+
 -Make your changes and commit them with descriptive messages.
+
 -Push your changes to your fork.
+
 -Submit a pull request to the main repository.
 
 
